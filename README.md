@@ -1,4 +1,6 @@
 # register-new-gateway
+https://www.thethingsindustries.com/docs/hardware/gateways/models/raspberry-pi/
+
 this is how you register your new gateway using The Things Network console
 
 STEPS:
